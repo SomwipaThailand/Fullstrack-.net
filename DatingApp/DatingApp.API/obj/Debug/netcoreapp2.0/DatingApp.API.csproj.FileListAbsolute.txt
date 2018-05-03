@@ -1,0 +1,11 @@
+D:\JA\Fullstrack .net\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.deps.json
+D:\JA\Fullstrack .net\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.runtimeconfig.json
+D:\JA\Fullstrack .net\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.runtimeconfig.dev.json
+D:\JA\Fullstrack .net\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.dll
+D:\JA\Fullstrack .net\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.pdb
+D:\JA\Fullstrack .net\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.csproj.CoreCompileInputs.cache
+D:\JA\Fullstrack .net\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.AssemblyInfoInputs.cache
+D:\JA\Fullstrack .net\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.AssemblyInfo.cs
+D:\JA\Fullstrack .net\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.dll
+D:\JA\Fullstrack .net\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.pdb
+D:\JA\Fullstrack .net\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.csprojResolveAssemblyReference.cache
